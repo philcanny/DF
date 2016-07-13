@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "Durf"
+  },
+  "hostingPlanName": {
+    "value": "DURF"
+  },
+  "siteLocation": {
+    "value": "West Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "4c0d2a4d-f2a8-4533-8195-3e503cd4e33d"
+  },
+  "resourceGroup": {
+    "value": "DesignUrFixie"
+  }
+}
